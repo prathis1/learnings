@@ -1,0 +1,96 @@
+    1  git config username prathis1
+    2  git
+    3  git clone https://github.com/prathis1/learnings
+    4  cd learnings/
+    5  ls
+    6  ls -a
+    7  maven
+    8  pwd
+    9  ls
+   10  cd ..
+   11  ls
+   12  cd downloads/
+   13  ls
+   14  ls *maven*
+   15  tar -xvf apache-maven-3.8.6-bin.tar.gz 
+   16  ls *maven*
+   17  cd apache-maven-3.8.6/
+   18  ls
+   19  ll bin/
+   20  cd bin
+   21  mvn
+   22  ./mvn
+   23  which java
+   24  woami
+   25  whoami
+   26  ls *java*
+   27  cd ..
+   28  cd ..
+   29  ls *java*
+   30  which java
+   31  java
+   32  java
+   33  exit
+   34  java
+   35  maven
+   36  cd downloads/
+   37  maven
+   38  ls*maven*
+   39  ls *maven*
+   40  cd apache-maven-3.8.6/
+   41  cd bin/
+   42  ls
+   43  ls -ltr
+   44  ll
+   45  ./mvn
+   46  ./mvn --help
+   47  #./mvn archetype:generate 
+   48  pwd
+   49  cd
+   50  pwd
+   51  mvn
+   52  /c/Users/0005AM744/downloads/apache-maven-3.8.6/bin/mvn --help
+   53  alias mvn="/c/Users/0005AM744/downloads/apache-maven-3.8.6/bin/mvn"
+   54  mvn --help
+   55  mvn archetype:generate
+   56  wd
+   57  pwd
+   58  ls
+   59  ls -ltr
+   60  mvn archetype:generate
+   61  clear
+   62  ll
+   63  ll saas
+   64  pwd
+   65  cd saas/
+   66  ll
+   67  mvn --help
+   68  mvn compile
+   69  mvn compile
+   70  exit
+   71  mvn compile
+   72  pwd
+   73  cd saas/
+   74  mvn compile
+   75  alias mvn="/c/Users/0005AM744/downloads/apache-maven-3.8.6/bin/mvn"
+   76  mvn compile
+   77  clear
+   78  ls
+   79  ls target/
+   80  ls target/classes/
+   81  ls target/classes/com/saas/test1/App.class 
+   82  cd target/classes/com/saas/test1/App.class 
+   83  la target/classes/com/saas/test1/App.class 
+   84  ls target/classes/com/saas/test1/App.class 
+   85  ls target/generated-sources/annotations/
+   86  pwd
+   87  mvn clean install
+   88  ll target/
+   89  ll target/classes/
+   90  ll target/classes/com/
+   91  ll target/classes/com/saas/
+   92  ll target/classes/com/saas/test1/
+   93  ls target/test-classes/com/saas/test1/
+   94  ls target/test-classes/com/saas/test1/AppTest.class 
+   95  jar tf target/saas-1.0-SNAPSHOT.jar 
+   96  history > Day1.txt
